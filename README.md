@@ -1,1 +1,2 @@
-# AI-POWERED-RESUME-ANALYZER-PROJECT1
+# AI-POWERED-RESUME-ANALYZER-PROJECT
+The AI Resume Analyzer is an intelligent web-based tool designed to help job seekers evaluate and enhance their resumes by comparing them directly against a specific job description. Leveraging advanced AI models, this tool simulates how Applicant Tracking Systems (ATS) and recruiters assess your resume for relevance, alignment, and suitability for a role. Completely in a single Python file.
